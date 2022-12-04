@@ -1,0 +1,13 @@
+/*
+
+!.gitignore
+!README.md
+
+# Genuinely who thought of this syntax
+!/src/
+/src/*
+!/src/main
+/src/main/*
+!/src/main/scala/
+/src/main/scala/*
+!/src/main/scala/*.scala
